@@ -1,2 +1,2 @@
 # Algoritmos De Transporte
-Foram implemententados os Métodos do Canto Noroeste e do Custo Mínimo 
+Foram implementados os Métodos do Canto Noroeste e do Custo Mínimo 
