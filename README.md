@@ -13,4 +13,4 @@ Equipe de desenvolvimento: [Euler](https://github.com/Rithie), [Priscyla](https:
 Exemplo  
 
 ![Imagem do Programa](img/CNor.png)
-![Imagem do Programa](img/CNor.png)
+![Imagem do Programa](img/CMin.png)
