@@ -10,7 +10,7 @@ Digite no terminal
 
 Equipe de desenvolvimento: [Euler](https://github.com/Rithie), [Priscyla](https://github.com/PriscylaSantos) e [Tamillys](https://github.com/Tamtuza)
 
+Exemplo  
 
-![Imagem do Programa](img/CNor.png)
-
-![Imagem do Programa](img/CMin.png)
+[![Imagem do Programa](img/CNor.png)
+![Imagem do Programa](img/CNor.png)]
